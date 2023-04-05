@@ -24,6 +24,6 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VfYfuw4JGQC0QLtbrhWyAQgW9qD9fXanG34lWGAyI1y34PxtAPagPNkCTAoX7_x7sFw&usqp=CAU" alt="Numpy" width="80" height="40"/> </a>
 <a href="https://www.statsmodels.org" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="Statsmodel" width="80" height="40"/> </a>
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" alt="Mlflow" width="80" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="80"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="80" height="40"/> </a>
 </p>
 
