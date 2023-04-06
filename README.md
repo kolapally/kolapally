@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS (Cloud platform)**
 
-- 👨‍💻 All of my projects are available at [link to tropl](link to tropl)
+- 👨‍💻 All of my projects are available at [Troopl](https://troopl.com/kolapally)
 
 - 💬 Ask me about **Data preparation, analysis, Machine Learning and Deep Learning**
 
